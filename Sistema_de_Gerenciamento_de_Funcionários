@@ -1,0 +1,6 @@
+Sistema de Gestão de Funcionários
+
+O objetivo deste projeto é desenvolver um sistema de banco de dados para gerenciar funcionários, departamentos e turnos em uma empresa.
+O sistema permite o registro, atualização, consulta e exclusão das informações dos funcionários, 
+bem como a gestão dos departamentos e dos atualizações.
+O sistema deve garantir a integridade referencial entre as tabelas e suportar operações básicas de CRUD
